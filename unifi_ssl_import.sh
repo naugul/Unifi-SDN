@@ -22,7 +22,7 @@
 # and be back online immediately.
 
 # CONFIGURATION OPTIONS
-UNIFI_HOSTNAME=*.rys-informatica.com.ar
+UNIFI_HOSTNAME=rys-informatica.com.ar
 UNIFI_SERVICE=unifi
 
 # Uncomment following three lines for Fedora/RedHat/CentOS
